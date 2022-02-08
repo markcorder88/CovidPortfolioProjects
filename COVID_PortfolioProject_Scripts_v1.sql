@@ -145,5 +145,3 @@ WHERE dea.continent IS NOT NULL
 
 SELECT *
 FROM VaccinationsPerPerson
-
---Create a few more views
